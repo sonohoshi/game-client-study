@@ -1,0 +1,3 @@
+[submodule "viewing-angle-simulator"]
+	path = viewing-angle-simulator
+	url = https://github.com/sonohoshi/viewing-angle-simulator.git
